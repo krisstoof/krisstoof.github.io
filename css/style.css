@@ -275,6 +275,14 @@ h3 {
     text-align: justify;
 }
 
+#about-btn {
+    float: left;
+}
+
+#cv-btn {
+    float: right;
+}
+
 /*========================================================
 
                         WORK
